@@ -4,6 +4,10 @@ import java.util.List;
 import java.util.Optional;
 import java.util.function.Supplier;
 
+/**
+ * Credit where credit is due:
+ * https://github.com/mariatsji/java8-workshop
+ */
 final class Ex5_Optionals {
 
     interface SomeService {
